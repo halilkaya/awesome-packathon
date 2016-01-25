@@ -1,7 +1,7 @@
 awesome-packathon
 ===================
 
-23 Ocak 2015 tarihinde gerçekleştirilen Packathon'da yapılan projeler bu repoda toplanmıştır.
+23 Ocak 2016 tarihinde gerçekleştirilen Packathon'da yapılan projeler bu repoda toplanmıştır.
 
 ----------
 
