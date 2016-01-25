@@ -50,6 +50,8 @@ awesome-packathon
 - [Gotcha](https://github.com/hipo/gotcha) (**Takım:** Hipo)
 	- Tuna Vargı
 	- Ali Certel
+	- Cemal Eker
+	- Ümit Dincel
 
 - [Git/Github Project Scaffolder](https://github.com/guneysus/packathon2016) (**Takım:** Takım 3)
 	- Ahmed Şeref Güneysu
