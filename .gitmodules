@@ -1,0 +1,54 @@
+[submodule "fatihorhan_vkafes"]
+	path = fatihorhan_vkafes
+	url = git@github.com:fatihorhan/vkafes.git
+[submodule "emre_django-stackoverflow-trace"]
+	path = emre_django-stackoverflow-trace
+	url = git@github.com:emre/django-stackoverflow-trace.git
+[submodule "gokmen_electron-catalyst"]
+	path = gokmen_electron-catalyst
+	url = git@github.com:gokmen/electron-catalyst.git
+[submodule "omerak_react-json-templater"]
+	path = omerak_react-json-templater
+	url = git@github.com:omerak/react-json-templater.git
+[submodule "krmbzds_qf"]
+	path = krmbzds_qf
+	url = git@github.com:krmbzds/qf.git
+[submodule "lambdacomplete_arper"]
+	path = lambdacomplete_arper
+	url = git@github.com:lambdacomplete/arper.git
+[submodule "ustun_turkcescript"]
+	path = ustun_turkcescript
+	url = git@github.com:ustun/turkcescript.git
+[submodule "erdemozkol_admino"]
+	path = erdemozkol_admino
+	url = git@github.com:erdemozkol/admino.git
+[submodule "cayicenadam_spo-term-for-mac"]
+	path = cayicenadam_spo-term-for-mac
+	url = git@github.com:cayicenadam/spo-term-for-mac.git
+[submodule "s_preprocessor"]
+	path = s_preprocessor
+	url = git@github.com:s/preprocessor.git
+[submodule "cemkiy_echonest"]
+	path = cemkiy_echonest
+	url = git@github.com:cemkiy/echonest.git
+[submodule "hipo_gotcha"]
+	path = hipo_gotcha
+	url = git@github.com:Hipo/gotcha.git
+[submodule "guneysus_git-github-scaffolder"]
+	path = guneysus_git-github-scaffolder
+	url = git@github.com:guneysus/packathon2016.git
+[submodule "froq_froq"]
+	path = froq_froq
+	url = git@github.com:froq/froq.git
+[submodule "ybrs_project-switcher"]
+	path = ybrs_project-switcher
+	url = git@github.com:ybrs/project-switcher.git
+[submodule "iltercengiz_packathon-ios"]
+	path = iltercengiz_packathon-ios
+	url = git@github.com:iltercengiz/Packathon.iOS.git
+[submodule "pyninjas_packathon-backend"]
+	path = pyninjas_packathon-backend
+	url = git@github.com:pyninjas/packathon-backend.git
+[submodule "pyninjas_packathon-android"]
+	path = pyninjas_packathon-android
+	url = git@github.com:pyninjas/packathon-android.git
